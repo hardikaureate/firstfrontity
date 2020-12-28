@@ -8,8 +8,8 @@ const marsTheme = {
   roots: {
     /**
      * In Frontity, any package can add React components to the site.
-     * We use roots for that, scoped to the `theme` namespace.hhhhhhh
-     * AureateTeam for that, scoped to the `theme` namespace.hhhhhhh
+     * We use roots for that, scoped to the `theme` namespace.Hardik
+     * AureateTeam for that, scoped to the `theme` namespace.Devani
      */
     theme: Theme,
   },
