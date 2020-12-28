@@ -24,7 +24,7 @@
     "@frontity/html2react": "^1.5.0",
     "@frontity/mars-theme": "./packages/mars-theme"
   },
-  "version": 3,
+  "version": 2,
    "builds": [
         {
             "src": "package.json",
